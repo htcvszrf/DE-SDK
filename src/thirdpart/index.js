@@ -1,20 +1,9 @@
 /*
  * @Author: Caven
- * @Date: 2019-09-08 00:12:46
+ * @Date: 2019-12-30 09:35:51
  * @Last Modified by: Caven
- * @Last Modified time: 2019-09-08 00:31:51
+ * @Last Modified time: 2020-01-03 09:34:55
  */
+import Cesium from '../namespace'
 
-import Cesium from '@/namespace'
-
-DE.Camera = Cesium.Camera
-DE.Cartesian2 = Cesium.Cartesian2
-DE.Cartesian3 = Cesium.Cartesian3
-DE.Cartesian4 = Cesium.Cartesian4
-DE.JulianDate = Cesium.JulianDate
-DE.DistanceDisplayCondition = Cesium.DistanceDisplayCondition
-DE.NearFarScalar = Cesium.NearFarScalar
-DE.CallbackProperty = Cesium.CallbackProperty
-DE.TileStyle = Cesium.Cesium3DTileStyle
-DE.HeadingPitchRoll = Cesium.HeadingPitchRoll
-DE.HeadingPitchRange = Cesium.HeadingPitchRange
+DE.Color = Cesium.Color
