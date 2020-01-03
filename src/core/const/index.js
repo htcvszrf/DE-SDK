@@ -2,7 +2,7 @@
  * @Author: Caven
  * @Date: 2020-01-03 10:09:19
  * @Last Modified by: Caven
- * @Last Modified time: 2020-01-03 12:23:09
+ * @Last Modified time: 2020-01-03 12:32:43
  */
 import Cesium from '../../namespace'
 
@@ -25,7 +25,7 @@ const LayerState = {
   INITIALIZED: 'initialized',
   ADDED: 'added',
   REMOVED: 'removed',
-  CLEARED: 'claered'
+  CLEARED: 'cleared'
 }
 
 const LayerType = {
